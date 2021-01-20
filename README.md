@@ -1,5 +1,3 @@
-# 팔색조 팀
-## Study repository
-### 규칙!!
-- 학습로그를 github으로 구축하기
-- 모더레이터 역할 > 주한번 변경하는 것으로
+# 공부로그
+repository 구성
+  * daily_report : 일별과제에 대해 공부해본 코드들 및
